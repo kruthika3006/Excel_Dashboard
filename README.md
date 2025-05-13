@@ -6,6 +6,8 @@
 
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction and inventory distribution to identify key insights and opportunities for optimization using various KPIs
 
+![](https://github.com/kruthika3006/Excel_Dashboard/blob/main/blinkit-logo-png_seeklogo-438944.png)
+
 ## KPIs Requirements -
 
 1. **Total sales**: The over all revenue generated from all items sold.
