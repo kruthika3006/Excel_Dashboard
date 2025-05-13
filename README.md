@@ -58,7 +58,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
    Chart Type: Matrix Card
 
 ## Dashboard :
-
+![](https://github.com/kruthika3006/Excel_Dashboard/blob/main/Dashboard)
 
 
 ## 📌 Summary -
